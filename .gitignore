@@ -1,0 +1,8 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+db1/data/*
+!db1/data/.gitkeep
+db2/data/*
+!db2/data/.gitkeep
